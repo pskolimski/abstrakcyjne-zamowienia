@@ -1,0 +1,14 @@
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\bin\Debug\net9.0\Faktury.exe
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\bin\Debug\net9.0\Faktury.deps.json
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\bin\Debug\net9.0\Faktury.runtimeconfig.json
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\bin\Debug\net9.0\Faktury.dll
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\bin\Debug\net9.0\Faktury.pdb
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.AssemblyInfoInputs.cache
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.AssemblyInfo.cs
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.csproj.CoreCompileInputs.cache
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.dll
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\refint\Faktury.dll
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.pdb
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\Faktury.genruntimeconfig.cache
+C:\Users\Egzamin\RiderProjects\Faktury\Faktury\obj\Debug\net9.0\ref\Faktury.dll
